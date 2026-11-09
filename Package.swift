@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MetrikuSDK",
-            url: "https://github.com/haxhiuurim/Metriku/releases/download/1.7.0/MetrikuSDK.xcframework.zip",
-            checksum: "de5593746030ce4274ac3e7be193d514cb530da08f6d64c68f7dfc21a62ce027"
+            url: "https://github.com/haxhiuurim/Metriku/releases/download/1.7.1/MetrikuSDK.xcframework.zip",
+            checksum: "528e4b53d65d96bd2681688a39cd9c801c78a4503aaa250b3ac1320d846a3a35"
         ),
     ]
 )

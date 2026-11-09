@@ -4,7 +4,7 @@
 https://github.com/haxhiuurim/Metriku.git
 ```
 
-From version **1.7.0** (XCFramework — no source in this repo).
+From version **1.7.1** (XCFramework — no source in this repo).
 
 ```swift
 import MetrikuSDK
